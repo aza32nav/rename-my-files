@@ -1,0 +1,19 @@
+{
+  "name": "rename-my-files",
+  "version": "1.0.0",
+  "description": "Change name to my files with the format 1234_1.mp4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal":true,
+  "bin": {
+    "rename-my-files": "./bin/rename-my-files.js"
+  },
+  "author": "navogu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}
