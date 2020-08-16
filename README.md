@@ -13,4 +13,5 @@ Without the [-c] or with the [-c false] option only show the possible changes, b
 
 # Improvements
 + Apply an Async-Await approach.
-+ Make more generic to cover more file name formats and extensions(with more option or with custom regexes).
++ Make more generic to cover more file name formats and extensions(with more options or with custom regex).
++ Add more cli options like man page and documentation.
